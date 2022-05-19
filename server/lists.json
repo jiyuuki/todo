@@ -1,5 +1,5 @@
 {
-  "lists" : [
+  "lists": [
     {
       "id": 1,
       "title": "Courses quotidiennes"
@@ -9,7 +9,7 @@
       "title": "Laver la voiture"
     }
   ],
-  "items" : [
+  "items": [
     {
       "id": 1,
       "listId": 1,
@@ -30,6 +30,19 @@
       "title": "Gateau",
       "quantity": 1,
       "price": 8.99
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 52,
+      "listId": "1",
+      "title": "tets",
+      "quantity": "23",
+      "price": "23"
     }
   ]
 }

@@ -1,10 +1,9 @@
-import { useEffect } from 'react';
+import { useContext, useEffect } from 'react';
 import styled from 'styled-components';
 import { useNavigate, useParams } from 'react-router-dom';
 import NavBar from '../components/NavBar/NavBar';
 import ListItem from '../components/ListItem/ListItem';
 import { ItemsContext } from '../contexts/ItemsContext';
-import { useContext } from 'react';
 
 const ListItemWrapper = styled.div`
   display: flex;
