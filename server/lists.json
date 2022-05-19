@@ -1,0 +1,35 @@
+{
+  "lists" : [
+    {
+      "id": 1,
+      "title": "Courses quotidiennes"
+    },
+    {
+      "id": 2,
+      "title": "Laver la voiture"
+    }
+  ],
+  "items" : [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Gants",
+      "quantity": 1,
+      "price": 6.99
+    },
+    {
+      "id": 2,
+      "listId": 1,
+      "title": "Riz",
+      "quantity": 1,
+      "price": 0.99
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Gateau",
+      "quantity": 1,
+      "price": 8.99
+    }
+  ]
+}
